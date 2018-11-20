@@ -3766,3 +3766,33 @@ img {
 
 
 /*# sourceMappingURL=style.css.map */
+
+/* SEPERATE NAVBAR */
+.dropdown-menu {
+    border-radius: 0%;
+    background: rgba(253, 250, 249, 0.75);
+}
+
+
+.dropdown-item:hover {
+    background-color: #1AA856;
+    color: #ffffff;
+}
+
+.nav-link {
+    color: #1AA856;
+}
+
+#navbarDropdown {
+    color: #1AA856;
+    font-size: 0.95rem;
+}
+
+.navbar-toggler {
+    border-radius: 0;
+}
+
+.dropdown-active {
+    color: #ffffff;
+    background-color: #1AA856;
+}
