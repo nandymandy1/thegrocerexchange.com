@@ -3770,7 +3770,7 @@ img {
 /* SEPERATE NAVBAR */
 .dropdown-menu {
     border-radius: 0%;
-    background: rgba(253, 250, 249, 0.75);
+    background-color: rgba(253, 250, 249, 0.75);
 }
 
 
@@ -3795,4 +3795,15 @@ img {
 .dropdown-active {
     color: #ffffff;
     background-color: #1AA856;
+}
+
+.toggle-nav{
+    color: #1AA856;
+}
+
+@media only screen and (min-width: 50px) and (max-width: 991px) {
+    .dropdown-menu {
+        background-color: transparent !important;
+        border: none;
+    }
 }
