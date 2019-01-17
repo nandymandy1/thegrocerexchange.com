@@ -225,7 +225,7 @@ img {
     position: relative;
     border-style: solid;
     border-width: 2px;
-    border-top-color: #1AA856;
+    border-top-color: rgb(0, 145, 51);
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
@@ -331,7 +331,7 @@ img {
 /* :: 3.7.0 ScrollUp */
 
 #scrollUp {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     border-radius: 0;
     bottom: 0;
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -361,8 +361,8 @@ img {
     min-width: 150px;
     height: 46px;
     color: #ffffff;
-    background-color: #1AA856;
-    border: 2px solid #1AA856;
+    background-color: rgb(0, 145, 51);
+    border: 2px solid rgb(0, 145, 51);
     border-radius: 0px;
     padding: 0 20px;
     font-size: 16px;
@@ -375,7 +375,7 @@ img {
 .alazea-btn:hover,
 .alazea-btn:focus {
     font-size: 16px;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
     font-weight: 600;
     background-color: transparent;
     box-shadow: none;
@@ -393,7 +393,7 @@ img {
 }
 
 .top-header-area>.conatiner {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
 }
 
 .header-area .top-header-area {
@@ -402,7 +402,7 @@ img {
     background-color: rgb(0, 145, 51);
     width: 100%;
     height: 42px;
-    /*border-bottom: 1px solid #1AA856;*/
+    /*border-bottom: 1px solid rgb(0, 145, 51);*/
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -437,7 +437,7 @@ img {
 
 .header-area .top-header-area .top-header-content .top-header-meta a i {
     margin-right: 5px;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 @media only screen and (max-width: 767px) {
@@ -474,7 +474,7 @@ img {
 }
 
 .header-area .top-header-area .top-header-content .top-header-meta .language-dropdown .dropdown-menu {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     border: none;
     box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.15);
 }
@@ -591,7 +591,7 @@ img {
 
 .header-area .alazea-main-menu .classynav ul li a:hover,
 .header-area .alazea-main-menu .classynav ul li a:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .header-area .alazea-main-menu .classynav ul li a::after {
@@ -716,7 +716,7 @@ img {
 }
 
 .header-area .alazea-main-menu .search-form .closeIcon:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 @media only screen and (max-width: 767px) {
@@ -766,7 +766,7 @@ img {
 
 .header-area #searchIcon:hover,
 .header-area #searchIcon:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 /* :: 5.0 Hero Slides Area */
@@ -1055,7 +1055,7 @@ img {
 
 .single-product-area .product-img .product-meta a:hover,
 .single-product-area .product-img .product-meta a:focus {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1094,7 +1094,7 @@ img {
 
 .single-product-area .product-info a p:hover,
 .single-product-area .product-info a p:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-product-area .product-info h6 {
@@ -1185,7 +1185,7 @@ img {
 }
 
 .shop-widget .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
 }
 
 .shop-widget .single-best-seller-product {
@@ -1237,7 +1237,7 @@ img {
 }
 
 .shop-widget .ui-slider-handle {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     border: none;
     border-radius: 50%;
     width: 12px;
@@ -1252,7 +1252,7 @@ img {
 }
 
 .shop-widget .ui-slider-range.ui-widget-header.ui-corner-all {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     position: absolute;
     height: 6px;
     width: auto;
@@ -1319,7 +1319,7 @@ img {
 }
 
 .single_product_thumb .carousel-indicators li.active {
-    border: 1px solid #1AA856;
+    border: 1px solid rgb(0, 145, 51);
 }
 
 .single_product_desc {
@@ -1342,7 +1342,7 @@ img {
 .single_product_desc .price {
     font-size: 26px;
     font-weight: 600;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
     margin-bottom: 30px;
 }
 
@@ -1501,7 +1501,7 @@ img {
 }
 
 .single_product_desc .products--meta p span:last-child a:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .product_details_tab {
@@ -1531,7 +1531,7 @@ img {
 
 .product_details_tab .nav-tabs .nav-link.active,
 .product_details_tab .nav-tabs .nav-link:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .product_details_tab .additional_info_area p {
@@ -1853,9 +1853,9 @@ img {
 
 .coupon-discount form button:hover,
 .coupon-discount form button:focus {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     color: #ffffff;
-    border-color: #1AA856;
+    border-color: rgb(0, 145, 51);
 }
 
 .cart-totals-area {
@@ -1930,9 +1930,9 @@ img {
 
 .cart-totals-area .shipping .shipping-address button:hover,
 .cart-totals-area .shipping .shipping-address button:focus {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     color: #ffffff;
-    border-color: #1AA856;
+    border-color: rgb(0, 145, 51);
 }
 
 /* :: 10.0 Checkout Area CSS */
@@ -1967,7 +1967,7 @@ img {
 .checkout_details_area select:focus,
 .checkout_details_area textarea:focus {
     box-shadow: none;
-    border: 1px solid #1AA856;
+    border: 1px solid rgb(0, 145, 51);
 }
 
 .checkout_details_area textarea {
@@ -2079,7 +2079,7 @@ img {
 .testimonials-slides .owl-dots .owl-dot::after {
     width: 4px;
     height: 4px;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     border-radius: 50%;
     content: '';
     position: absolute;
@@ -2091,7 +2091,7 @@ img {
 }
 
 .testimonials-slides .owl-dots .owl-dot.active {
-    border-color: #1AA856;
+    border-color: rgb(0, 145, 51);
 }
 
 .testimonials-slides .owl-dots .owl-dot.active::after {
@@ -2131,7 +2131,7 @@ img {
 
 .single-testimonial-slide .testimonial-content .testimonial-author-info p {
     margin-bottom: 0;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 /* :: 12.0 About Us Area CSS */
@@ -2188,7 +2188,7 @@ img {
     position: relative;
     width: 0px;
     height: 100%;
-    background: #1AA856;
+    background: rgb(0, 145, 51);
     z-index: 1;
 }
 
@@ -2272,7 +2272,7 @@ img {
     transition-duration: 500ms;
     width: 70px;
     height: 70px;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -2334,7 +2334,7 @@ img {
 }
 
 .single-team-member .team-member-thumb .team-member-social-info a:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-team-member .team-member-info h5 {
@@ -2379,7 +2379,7 @@ img {
 
 .alazea-portfolio-filter .btn:hover,
 .alazea-portfolio-filter .btn:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
     box-shadow: none;
 }
 
@@ -2503,7 +2503,7 @@ img {
     top: 40px;
     width: 36px;
     height: 36px;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     line-height: 36px;
 }
 
@@ -2532,7 +2532,7 @@ img {
     line-height: normal;
     color: #ffffff;
     padding-right: 0;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     padding: 8px 20px;
     border-radius: 30px;
     font-size: 12px;
@@ -2543,7 +2543,7 @@ img {
     color: #ffffff;
     position: relative;
     line-height: normal;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     padding: 8px 20px;
     border-radius: 30px;
     font-size: 12px;
@@ -2665,8 +2665,8 @@ img {
 
 .footer-area .single-footer-widget .social-info a:hover,
 .footer-area .single-footer-widget .social-info a:focus {
-    border-color: #1AA856;
-    background-color: #1AA856;
+    border-color: rgb(0, 145, 51);
+    background-color: rgb(0, 145, 51);
 }
 
 .footer-area .single-footer-widget .widget-title h5 {
@@ -2803,7 +2803,7 @@ img {
 
 .footer-area .footer-bottom-area .copywrite-text p a:hover,
 .footer-area .footer-bottom-area .copywrite-text p a:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 @media only screen and (max-width: 767px) {
@@ -2926,7 +2926,7 @@ img {
 
 .breadcrumb-area .breadcrumb .breadcrumb-item a:hover,
 .breadcrumb-area .breadcrumb .breadcrumb-item a:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .breadcrumb-area .breadcrumb .breadcrumb-item+.breadcrumb-item::before {
@@ -2956,7 +2956,7 @@ img {
 }
 
 .single-blog-post .post-content .post-title h5:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-blog-post .post-content .post-meta {
@@ -2984,11 +2984,11 @@ img {
 
 .single-blog-post .post-content .post-meta a i {
     margin-right: 5px;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-blog-post .post-content .post-meta a:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-blog-post .post-content .post-excerpt {
@@ -2998,7 +2998,7 @@ img {
 }
 
 .single-blog-post:hover .post-content .post-title h5 {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .pagination {
@@ -3023,8 +3023,8 @@ img {
 
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
-    border-color: #1AA856;
-    background-color: #1AA856;
+    border-color: rgb(0, 145, 51);
+    background-color: rgb(0, 145, 51);
     color: #ffffff;
 }
 
@@ -3052,8 +3052,8 @@ img {
 
 .shop-products-area .pagination .page-item .page-link:hover,
 .shop-products-area .pagination .page-item .page-link:focus {
-    border-color: #1AA856;
-    background-color: #1AA856;
+    border-color: rgb(0, 145, 51);
+    background-color: rgb(0, 145, 51);
     color: #ffffff;
 }
 
@@ -3125,7 +3125,7 @@ img {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .comment_area .single_comment_area .comment-wrapper .comment-content h5 {
@@ -3153,7 +3153,7 @@ img {
 }
 
 .comment_area .single_comment_area .comment-wrapper .comment-content a:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single_comment_area ol li.single_comment_area {
@@ -3207,7 +3207,7 @@ img {
 
 .leave-comment-area form .form-control:focus {
     box-shadow: none;
-    border-color: #1AA856;
+    border-color: rgb(0, 145, 51);
 }
 
 .leave-comment-area form textarea.form-control {
@@ -3284,7 +3284,7 @@ img {
 
 .single-widget-area .single-latest-post .post-content .post-title h6:hover,
 .single-widget-area .single-latest-post .post-content .post-title h6:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-widget-area .single-latest-post .post-content .post-date {
@@ -3309,7 +3309,7 @@ img {
 .single-widget-area .popular-tags li a:hover,
 .single-widget-area .popular-tags li a:focus {
     color: #ffffff;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
 }
 
 .single-widget-area .author-widget {
@@ -3379,7 +3379,7 @@ img {
 }
 
 .single-widget-area .author-widget .social-info a:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-widget-area .single-best-seller-product {
@@ -3463,7 +3463,7 @@ img {
 }
 
 .single-widget-area .search-form button:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-post-details-area {
@@ -3517,11 +3517,11 @@ img {
 
 .single-post-details-area .post-content .post-meta a i {
     margin-right: 5px;
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-post-details-area .post-content .post-meta a:hover {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .single-post-details-area .post-content blockquote {
@@ -3532,7 +3532,7 @@ img {
 }
 
 .single-post-details-area .post-content blockquote .blockquote-text h5:last-child {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .post-tags-share {
@@ -3561,7 +3561,7 @@ img {
 .post-tags-share .popular-tags li a:hover,
 .post-tags-share .popular-tags li a:focus {
     color: #ffffff;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
 }
 
 .post-tags-share .post-share a {
@@ -3572,7 +3572,7 @@ img {
 
 .post-tags-share .post-share a:hover,
 .post-tags-share .post-share a:focus {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 @media only screen and (max-width: 767px) {
@@ -3622,7 +3622,7 @@ img {
 
 .contact-form-area .form-control:focus {
     box-shadow: none;
-    border-color: #1AA856;
+    border-color: rgb(0, 145, 51);
 }
 
 .contact-form-area textarea.form-control {
@@ -3674,7 +3674,7 @@ img {
 }
 
 .portfolio-details-area ul li i {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
     margin-right: 15px;
 }
 
@@ -3737,7 +3737,7 @@ img {
 .portfolio-slides .owl-dots .owl-dot::after {
     width: 4px;
     height: 4px;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     border-radius: 50%;
     content: '';
     position: absolute;
@@ -3749,7 +3749,7 @@ img {
 }
 
 .portfolio-slides .owl-dots .owl-dot.active {
-    border-color: #1AA856;
+    border-color: rgb(0, 145, 51);
 }
 
 .portfolio-slides .owl-dots .owl-dot.active::after {
@@ -3786,16 +3786,16 @@ img {
 
 
 .dropdown-item:hover {
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
     color: #ffffff;
 }
 
 .nav-link {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 #navbarDropdown {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
     font-size: 0.95rem;
 }
 
@@ -3805,11 +3805,11 @@ img {
 
 .dropdown-active {
     color: #ffffff;
-    background-color: #1AA856;
+    background-color: rgb(0, 145, 51);
 }
 
 .toggle-nav {
-    color: #1AA856;
+    color: rgb(0, 145, 51);
 }
 
 .main-footer-area {
